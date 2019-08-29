@@ -1,6 +1,7 @@
-#include <torch/extension.h>
+//#include <torch/extension.h>
+#include <torch/serialize/tensor.h>
 #include <vector>
-
+#include <pybind11/pybind11.h> 
 at::Tensor ROIAlign_Forward_CUDA(
   const at::Tensor input,
   const at::Tensor rois,

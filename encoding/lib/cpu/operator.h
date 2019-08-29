@@ -1,5 +1,6 @@
 #include <torch/torch.h>
 #include <vector>
+#include <torch/serialize/tensor.h>
 
 at::Tensor ROIAlign_Forward_CPU(
   const at::Tensor& input,

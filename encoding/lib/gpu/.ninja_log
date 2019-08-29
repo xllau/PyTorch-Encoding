@@ -1,0 +1,9 @@
+# ninja log v5
+2	7644	1567049251	encoding_kernel.cuda.o	696649c1f781e5b3
+3	7718	1567049251	roi_align_kernel.cuda.o	d53ea78d6b516615
+2	7833	1567049251	encodingv2_kernel.cuda.o	8b99ab7a214e4ce0
+2	7890	1567049251	syncbn_kernel.cuda.o	a31a628c7ea28503
+1	7922	1567049251	nms_kernel.cuda.o	411cb5b1a40ec0c8
+1	8730	1567049252	activation_kernel.cuda.o	b5c69bd3e39ca1d3
+1	3189	1567054071	operator.o	a1a6b370bba7204b
+3189	3313	1567054071	enclib_gpu.so	45ef6975e1a9ccc5

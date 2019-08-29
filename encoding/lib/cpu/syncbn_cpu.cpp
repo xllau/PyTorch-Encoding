@@ -1,4 +1,5 @@
-#include <torch/extension.h>
+//#include <torch/extension.h>
+#include <torch/serialize/tensor.h>
 #include <ATen/ATen.h>
 #include <vector>
 

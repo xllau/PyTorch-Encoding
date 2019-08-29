@@ -1,0 +1,7 @@
+# ninja log v5
+1	1201	1567049157	encoding_cpu.o	ee50cd84b202a2c1
+1	1957	1567049158	syncbn_cpu.o	bd14cd44a39cb736
+2	1964	1567049158	nms_cpu.o	896da0c8ff6b969f
+2	1980	1567049158	roi_align_cpu.o	b8b4b388dfcef2b2
+0	3881	1567049160	operator.o	3496c7afee43d7cd
+3881	3990	1567049160	enclib_cpu.so	1ddc9684d3ea9ee8

@@ -39,7 +39,7 @@ class install(setuptools.command.install.install):
     def run(self):
         create_version_file()
         setuptools.command.install.install.run(self)
-        #subprocess.check_call("python tests/unit_test.py".split())
+	#1subprocess.check_call("python tests/unit_test.py".split())
 
 class develop(setuptools.command.develop.develop):
     def run(self):
